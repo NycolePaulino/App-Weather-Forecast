@@ -18,7 +18,7 @@
 
 <h3>Configuração da API</h3>
 <p>Para utilizar a API de previsão do tempo, é necessário obter uma chave de API válida. 
-  Insira sua chave de API no arquivo WeatherAPI.swift no projeto.</p>
+  Insira sua chave de API no arquivo Service.swift no projeto.</p>
 
 <h3>Tecnologias Utilizadas:</h3>
 <ul>
