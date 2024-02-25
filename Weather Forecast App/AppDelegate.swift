@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Weather Forecast App
 //
-//  Created by Lorraine Xavier Silva on 16/01/24.
+//  Created by Nycole Paulino Santos on 16/01/24.
 
 import UIKit
 
